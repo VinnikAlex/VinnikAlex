@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, NodeJS, Full-stack web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinnikAlex](https://github.com/VinnikAlex)
-
 - 📫 How to reach me **alexander.vinnik@students.mq.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iIjDFUdlYYt2WTxuSN1y_xqc4Rej5tgR/view?usp=sharing](https://drive.google.com/file/d/1iIjDFUdlYYt2WTxuSN1y_xqc4Rej5tgR/view?usp=sharing)
