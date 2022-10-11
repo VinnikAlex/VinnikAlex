@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An Information Technology student with a passion for software development</h3>
 
-- 🌱 I’m currently learning **ReactJS, MongoDB, NodeJS, Full-stack web development**
+- 🌱 I’m currently learning **ReactJS, MongoDB, NodeJS, JEST/Testing, Redux, Full-stack web development**
 
 - 📫 How to reach me **alexander.vinnik@students.mq.edu**
 
