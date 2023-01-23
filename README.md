@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">An Information Technology student with a passion for software development</h3>
+
+<h3 align="center">Information Technology student with a passion for software development</h3>
 
 - 🌱 I’m currently learning **ReactJS, MongoDB, NodeJS, JEST/Testing, Redux, Full-stack web development**
 
